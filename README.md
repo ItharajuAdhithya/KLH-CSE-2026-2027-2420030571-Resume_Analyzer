@@ -29,7 +29,7 @@ This project proposes an adaptive resume analyzer and skill development platform
    **Phase 4: Dockerization & End-to-End Testing** (Pending)
 
 
-## Setup & Execution Instructions
+## Setup
 
 ### Prerequisites
 * **Node.js** (v16+)
